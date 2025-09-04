@@ -43,7 +43,7 @@ public class Exercicio17 {
             numero = scanner.nextInt();
         }
 
-        // agora calculo as porcentagens
+        // calculo as porcentagens
         // preciso transformar em double para ter resultado com vírgula
         double porcentagem4 = (numeroCanal4 * 100.0) / quantidade;
         double porcentagem5 = (numeroCanal5 * 100.0) / quantidade;
